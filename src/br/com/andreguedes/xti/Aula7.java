@@ -1,5 +1,10 @@
 package br.com.andreguedes.xti;
 
+/**
+ * Learning about primitive types
+ * @author Andre
+ *
+ */
 public class Aula7 {
 
 	// Aula 007 - Tipos primitivos

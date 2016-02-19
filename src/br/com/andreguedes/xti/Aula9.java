@@ -1,5 +1,10 @@
 package br.com.andreguedes.xti;
 
+/**
+ * Constants and the 'final' modifier
+ * @author Andre
+ *
+ */
 public class Aula9 {
 
 	// Aula 009 - Constantes e modificador final

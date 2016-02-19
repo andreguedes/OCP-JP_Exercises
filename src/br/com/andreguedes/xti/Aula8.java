@@ -1,5 +1,10 @@
 package br.com.andreguedes.xti;
 
+/**
+ * GC and reference type
+ * @author Andre
+ *
+ */
 public class Aula8 {
 
 	// Aula 008 - Variaveis de referencia, garbage collector
