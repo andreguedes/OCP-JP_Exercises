@@ -16,14 +16,14 @@ public class Aula11 {
 	// Aula 011 - Entrada de dados com Scanner
 	public static void main(String[] args) {
 		
-		// If it'll not have any value in the first element, it'll throw an exception (NullPointerException)
+		// If you have no value in the first element, it'll throw an exception (NullPointerException)
 		//System.out.println(args[0]);
 		
-		//User interaction, read the input
+		//User interaction, reading the input
 		Scanner s = new Scanner(System.in);
 		System.out.println("What`s your name?");
 		
-		//Get the info that the user was put
+		//Get the info that the user had put
 		String name = s.nextLine();
 		
 		System.out.println("Welcome " + name);
